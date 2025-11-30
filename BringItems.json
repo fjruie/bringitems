@@ -1,0 +1,49 @@
+{
+  "Update": [
+    "New Sword",
+    "Alien Medkit",
+    "Scalding Obsidiron Ingot",
+    "Gem of the Forest Fragment",
+    "Cultist Experiment"
+  ],
+  "Weapons": [
+    "Revolver", "Rifle", "Tactical Shotgun", "Raygun",
+    "Katana", "Morningstar", "Kunai", "Spear",
+    "Infernal Sword", "Crossbow", "Infernal Crossbow", "Laser Sword",
+    "Ice Axe", "Ice Sword", "Chainsaw",
+    "Revolver Ammo", "Rifle Ammo"
+  ],
+  "Armor": [
+    "Leather Armor", "Iron Armor", "Thorn Armor",
+    "Alien Armour", "Obsidiron Body", "Obsidiron Boots",
+    "Frog Boots", "Riot Shield",
+    "Armor Trim", "Axe Trim", "Armour Trim Kit", "Axe Trim Kit"
+  ],
+  "Consumables": [
+    "Meat", "Bandage", "Medkit",
+    "Carrot", "Mackerel", "Salmon", "Swordfish",
+    "Berry", "Ribs", "Cooked Ribs", "Stew", "Steak Dinner",
+    "Morsel", "Steak", "Corn", "Cooked Morsel", "Cooked Steak",
+    "Chilli", "Apple", "Cake", "Pumpkin",
+    "Fuel Canister", "Biofuel", "Oil Barrel"
+  ],
+  "Resources": [
+    "Meteor Shard", "Gold Shard", "Diamond",
+    "Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron ingot",
+    "Logs", "Coal", "Sheet Metal",
+    "Wolf Pelt", "Alpha Wolf Pelt", "Bear Pelt", "Bunny Foot", "Rabbit Foot",
+    "Mammonth Tusk", "Bear Corpse", "Feather",
+    "UFO Scrap", "UFO Component", "UFO Junk",
+    "Gem of the Forest", "Gem of the Forest Fragment",
+    "Cultist Gem", "Cultist Prototype", "Cultist Experiment"
+  ],
+  "Equipment": [
+    "Good Axe", "Strong Axe", "Good Sack", "Giant Sack", "Infernal Sack",
+    "Car Engine", "Old Car Engine", "Broken Fan", "Broken Radio",
+    "Old Flashlight", "Strong Flashlight", "Old Radio",
+    "Broken Microwave", "Washing Machine", "Tyre",
+    "Bolt", "Seed Box", "Chair", "Sapling",
+    "Sacrifice Totem", "Frog Key", "Defense Blueprint",
+    "Coin Stack"
+  ]
+}
