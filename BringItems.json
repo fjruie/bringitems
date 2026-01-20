@@ -9,31 +9,37 @@
     "Katana", "Morningstar", "Kunai", "Spear",
     "Infernal Sword", "Crossbow", "Infernal Crossbow", "Laser Sword",
     "Ice Axe", "Ice Sword", "Chainsaw",
-    "Revolver Ammo", "Rifle Ammo"
+    "Revolver Ammo", "Rifle Ammo",
+    "Air Rifle", "Blowpipe", "Laser Cannon", "Bouncing Blade", "Pike", "Physics Sword",
+    "Frozen Shuriken"
   ],
   "Armor": [
     "Leather Armor", "Iron Armor", "Thorn Armor",
     "Alien Armour", "Obsidiron Body", "Obsidiron Boots",
-    "Frog Boots", "Riot Shield", "Mammoth Helmet", "Infernal Helmet", 
-    "Armor Trim", "Axe Trim", "Armour Trim Kit", "Axe Trim Kit"
+    "Frog Boots", "Riot Shield", "Mammoth Helmet", "Infernal Helmet",
+    "Armor Trim", "Axe Trim", "Armour Trim Kit", "Axe Trim Kit",
+    "Iron Body", "Leather Body", "Vampire Cloak", "Arctic Fox Hat"
   ],
   "Consumables": [
-    "Meat", "Bandage", "Medkit",
+    "Meat", "Bandage", "MedKit",
     "Carrot", "Mackerel", "Salmon", "Swordfish",
     "Berry", "Ribs", "Cooked Ribs", "Stew", "Steak Dinner",
     "Morsel", "Steak", "Corn", "Cooked Morsel", "Cooked Steak",
-    "Chilli", "Apple", "Cake", "Pumpkin",
-    "Fuel Canister", "Biofuel", "Oil Barrel"
+    "Chilli", "Apple", "Cake", "Pumpkin", "Cotton Candy",
+    "Fuel Canister", "Biofuel", "Oil Barrel", "BBQ Ribs", "Candy Apple", "Candy Corn",
+    "Hearty Stew", "Strawberry", "Casserole", "Cooked Mackerel", "Cooked Salmon", "Cooked Shark", "Cooked Swordfish", "Peanut"
   ],
   "Resources": [
     "Meteor Shard", "Gold Shard", "Diamond",
-    "Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron ingot",
+    "Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron Ingot",
     "Logs", "Coal", "Sheet Metal",
     "Wolf Pelt", "Alpha Wolf Pelt", "Bear Pelt", "Bunny Foot", "Rabbit Foot",
-    "Mammonth Tusk", "Bear Corpse", "Feather",
+    "Mammoth Tusk", "Bear Corpse", "Feather",
     "UFO Scrap", "UFO Component", "UFO Junk",
     "Gem of the Forest", "Gem of the Forest Fragment",
-    "Cultist Gem", "Cultist Prototype", "Cultist Experiment"
+    "Cultist Gem", "Cultist Prototype", "Cultist Experiment",
+    "Gears", "Brightwood Sapling", "Anvil Base", "Anvil Back", "Anvil Front", "Lavender", "Magnolia", "Amaryllis", "Orchid",
+    "Bluebells"
   ],
   "Equipment": [
     "Good Axe", "Strong Axe", "Good Sack", "Giant Sack", "Infernal Sack",
@@ -42,6 +48,31 @@
     "Broken Microwave", "Washing Machine", "Tyre",
     "Bolt", "Seed Box", "Chair", "Sapling",
     "Sacrifice Totem", "Frog Key", "Defense Blueprint",
-    "Coin Stack"
+    "Coin Stack",
+    "Ammo Crate", "Ammo Crate Recipe Tablet", "Bedside Table", "Basketball", "Beanbag",
+    "Bearskin Rug", "Bear Trap", "Chair Set", "Chilly Bin", "Chopping Board", "Cloth Frame", "Clownfish Chair",
+    "Compass", "Crock Pot", "Farm Recipe Tablet", "Flower Vase", "Good Bed", "Good Rod", "Good Taming Flute",
+    "Green Rug", "Hammer", "Lost Child2", "Lost Child4", "Metal Chair", "Mossy Chest", "Old Rod", "Old Taming Flute", "Paint Brush",
+    "Plush Toy", "Purple Rug", "Red Key", "Secret Recipe Tablet", "Well", "Wooden Bookshelf", "Wooden Chair", "Wooden Fence Segment",
+    "Wooden Stool", "Wooden Table", "Wooden Trellis Fence", "Wood Rain Storage", "Writable Sign Small", "Blue Key", "Yellow Key",
+    "Halloween Maze Chest", "Halloween Chest1"
+  ],
+  "Chests": [
+    "Item Chest", "Item Chest2", "Item Chest3", "Item Chest4", "Item Chest5", "Item Chest6",
+    "Mossy Chest", "Snow Chest1", "Snow Chest2", "StoneChest1", "StoneChest2", "Volcanic Chest1", "Volcanic Chest2"
+  ],
+  "Enemies": [
+    "Alien", "Alien Chest", "Alien Elite", "Cultist", "Cultist King", "Cultist King Antler",
+    "Darkstring Cultist", "Wolf Corpse", "Wolf Head", "Alpha Wolf Corpse",
+    "Juggernaut Cultist", "Crossbow Cultist"
+  ],
+  "Utility": [
+    "Biofuel Processor", "Bucket", "Bush Planter", "Candy Turret", "Carnival Basketball", "Carnival Ring", "Carnival Ticket",
+    "Dynamite", "Earmuffs", "Explosive Revolver Ammo", "Explosive Rifle Ammo", "Flower Bush",
+    "Frozen Shuriken", "Impact Grenade", "Lava Mine", "Milk Carton", "Physics Sword", "Riot Shield", "Sacrifice Totem",
+    "Sapling", "Shark", "Snowball", "Snowball Cannon", "Wildfire", "Witch Potion", "Brute Shield"
+  ],
+  "Decor": [
+    "Big Blue Flower", "Big Pink Flower", "Big White Flower", "Bullseye Rug", "Green Rug", "Purple Rug"
   ]
 }
