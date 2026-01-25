@@ -11,14 +11,17 @@
     "Ice Axe", "Ice Sword", "Chainsaw",
     "Revolver Ammo", "Rifle Ammo",
     "Air Rifle", "Blowpipe", "Laser Cannon", "Bouncing Blade", "Pike", "Physics Sword",
-    "Frozen Shuriken"
+    "Frozen Shuriken",
+    "OP Raygun", "Corrupted Shotgun", "Corrupted Revolver", "Corrupted Axe",
+    "Flamethrower", "RPG-7", "Scythe", "Poison Spear", "Obsidiron Hammer", "Trident"
   ],
   "Armor": [
     "Leather Armor", "Iron Armor", "Thorn Armor",
     "Alien Armour", "Obsidiron Body", "Obsidiron Boots",
     "Frog Boots", "Riot Shield", "Mammoth Helmet", "Infernal Helmet",
     "Armor Trim", "Axe Trim", "Armour Trim Kit", "Axe Trim Kit",
-    "Iron Body", "Leather Body", "Vampire Cloak", "Arctic Fox Hat"
+    "Iron Body", "Leather Body", "Vampire Cloak", "Arctic Fox Hat",
+    "Obsidiron Shield", "Poison Armour", "Polar Bear Helmet"
   ],
   "Consumables": [
     "Meat", "Bandage", "MedKit",
@@ -27,12 +30,14 @@
     "Morsel", "Steak", "Corn", "Cooked Morsel", "Cooked Steak",
     "Chilli", "Apple", "Cake", "Pumpkin", "Cotton Candy",
     "Fuel Canister", "Biofuel", "Oil Barrel", "BBQ Ribs", "Candy Apple", "Candy Corn",
-    "Hearty Stew", "Strawberry", "Casserole", "Cooked Mackerel", "Cooked Salmon", "Cooked Shark", "Cooked Swordfish", "Peanut"
+    "Hearty Stew", "Strawberry", "Casserole", "Cooked Mackerel", "Cooked Salmon", "Cooked Shark", "Cooked Swordfish", "Peanut",
+    "Meat? Sandwich", "Morsel?", "Pumpkin Pie", "Pumpkin Soup", "Seafood Chowder", "Rock Cake",
+    "Carrot Cake", "Cuban Sandwich", "Seasoning", "MRE", "MRE Kit"
   ],
   "Resources": [
     "Meteor Shard", "Gold Shard", "Diamond",
     "Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron Ingot",
-    "Logs", "Coal", "Sheet Metal",
+    "Log", "Coal", "Sheet Metal",
     "Wolf Pelt", "Alpha Wolf Pelt", "Bear Pelt", "Bunny Foot", "Rabbit Foot",
     "Mammoth Tusk", "Bear Corpse", "Feather",
     "UFO Scrap", "UFO Component", "UFO Junk",
@@ -55,16 +60,20 @@
     "Green Rug", "Hammer", "Lost Child2", "Lost Child4", "Metal Chair", "Mossy Chest", "Old Rod", "Old Taming Flute", "Paint Brush",
     "Plush Toy", "Purple Rug", "Red Key", "Secret Recipe Tablet", "Well", "Wooden Bookshelf", "Wooden Chair", "Wooden Fence Segment",
     "Wooden Stool", "Wooden Table", "Wooden Trellis Fence", "Wood Rain Storage", "Writable Sign Small", "Blue Key", "Yellow Key",
-    "Halloween Maze Chest", "Halloween Chest1"
+    "Halloween Maze Chest", "Halloween Chest1", "Grey Key", "Hardmode Crate", "Strong Rod", "Strong Taming Flute", "Watering Can",
+    "Snow Shovel", "Right Hook"
   ],
   "Chests": [
     "Item Chest", "Item Chest2", "Item Chest3", "Item Chest4", "Item Chest5", "Item Chest6",
-    "Mossy Chest", "Snow Chest1", "Snow Chest2", "StoneChest1", "StoneChest2", "Volcanic Chest1", "Volcanic Chest2"
+    "Mossy Chest", "Snow Chest1", "Snow Chest2", "StoneChest1", "StoneChest2", "Volcanic Chest1", "Volcanic Chest2",
+    "Obsidiron Chest"
   ],
   "Enemies": [
     "Alien", "Alien Chest", "Alien Elite", "Cultist", "Cultist King", "Cultist King Antler",
     "Darkstring Cultist", "Wolf Corpse", "Wolf Head", "Alpha Wolf Corpse",
-    "Juggernaut Cultist", "Crossbow Cultist"
+    "Juggernaut Cultist", "Crossbow Cultist",
+    "Shadow Cultist", "Brutal Cultist", "Frozen Cultist",
+    "Resurrected Crossbow Cultist", "Resurrected Cultist", "Resurrected Juggernaut Cultist", "Deer Buddy"
   ],
   "Utility": [
     "Biofuel Processor", "Bucket", "Bush Planter", "Candy Turret", "Carnival Basketball", "Carnival Ring", "Carnival Ticket",
