@@ -13,7 +13,8 @@
     "Air Rifle", "Blowpipe", "Laser Cannon", "Bouncing Blade", "Pike", "Physics Sword",
     "Frozen Shuriken",
     "OP Raygun", "Corrupted Shotgun", "Corrupted Revolver", "Corrupted Axe",
-    "Flamethrower", "RPG-7", "Scythe", "Poison Spear", "Obsidiron Hammer", "Trident"
+    "Flamethrower", "RPG-7", "Scythe", "Poison Spear", "Obsidiron Hammer", "Trident",
+    "Shotgun Ammo", "Peppermint Pelter"
   ],
   "Armor": [
     "Leather Armor", "Iron Armor", "Thorn Body",
@@ -21,22 +22,24 @@
     "Frog Boots", "Riot Shield", "Mammoth Helmet", "Infernal Helmet",
     "Armor Trim", "Axe Trim", "Armour Trim Kit", "Axe Trim Kit",
     "Iron Body", "Leather Body", "Vampire Cloak", "Arctic Fox Hat",
-    "Obsidiron Shield", "Poison Armour", "Polar Bear Helmet"
+    "Obsidiron Shield", "Poison Armour", "Polar Bear Helmet",
+    "Beanie"
   ],
   "Consumables": [
-    "Meat", "Bandage", "MedKit",
-    "Carrot", "Mackerel", "Salmon", "Swordfish",
+    "Meat", "Bandage", "MedKit", "Meds Kit",
+    "Carrot", "Mackerel", "Salmon", "Swordfish", "Char", "Clownfish", "Lava Eel", "Lionfish",
     "Berry", "Ribs", "Cooked Ribs", "Stew", "Steak Dinner",
-    "Morsel", "Steak", "Corn", "Cooked Morsel", "Cooked Steak",
+    "Morsel", "Steak", "Corn", "Cooked Morsel", "Cooked Steak", "Cooked Char", "Cooked Clownfish", "Cooked Lava Eel",
     "Chilli", "Apple", "Cake", "Pumpkin", "Cotton Candy",
     "Fuel Canister", "Biofuel", "Oil Barrel", "BBQ Ribs", "Candy Apple", "Candy Corn",
     "Hearty Stew", "Strawberry", "Casserole", "Cooked Mackerel", "Cooked Salmon", "Cooked Shark", "Cooked Swordfish", "Peanut",
     "Meat? Sandwich", "Morsel?", "Pumpkin Pie", "Pumpkin Soup", "Seafood Chowder", "Rock Cake",
-    "Carrot Cake", "Cuban Sandwich", "Seasoning", "MRE", "MRE Kit"
+    "Carrot Cake", "Cuban Sandwich", "Seasoning", "MRE", "MRE Kit",
+    "Potion"
   ],
   "Resources": [
     "Meteor Shard", "Gold Shard", "Diamond",
-    "Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron Ingot",
+    "Obsidiron Ore", "Raw Obsidiron Ore", "Scalding Obsidiron Ingot", "Obsidiron Ingot",
     "Log", "Coal", "Sheet Metal",
     "Wolf Pelt", "Alpha Wolf Pelt", "Bear Pelt", "Bunny Foot", "Rabbit Foot",
     "Mammoth Tusk", "Bear Corpse", "Feather",
@@ -44,7 +47,7 @@
     "Gem of the Forest", "Gem of the Forest Fragment",
     "Cultist Gem", "Cultist Prototype", "Cultist Experiment",
     "Gears", "Brightwood Sapling", "Anvil Base", "Anvil Back", "Anvil Front", "Lavender", "Magnolia", "Amaryllis", "Orchid",
-    "Bluebells"
+    "Bluebells", "Acorn", "Arctic Fox Pelt", "Polar Bear Pelt", "Scorpion Shell"
   ],
   "Equipment": [
     "Good Axe", "Strong Axe", "Good Sack", "Giant Sack", "Infernal Sack",
@@ -61,12 +64,13 @@
     "Plush Toy", "Purple Rug", "Red Key", "Secret Recipe Tablet", "Well", "Wooden Bookshelf", "Wooden Chair", "Wooden Fence Segment",
     "Wooden Stool", "Wooden Table", "Wooden Trellis Fence", "Wood Rain Storage", "Writable Sign Small", "Blue Key", "Yellow Key",
     "Halloween Maze Chest", "Halloween Chest1", "Grey Key", "Hardmode Crate", "Strong Rod", "Strong Taming Flute", "Watering Can",
-    "Snow Shovel", "Right Hook"
+    "Snow Shovel", "Right Hook",
+    "Old Boot"
   ],
   "Chests": [
     "Item Chest", "Item Chest2", "Item Chest3", "Item Chest4", "Item Chest5", "Item Chest6",
     "Mossy Chest", "Snow Chest1", "Snow Chest2", "StoneChest1", "StoneChest2", "Volcanic Chest1", "Volcanic Chest2",
-    "Obsidiron Chest"
+    "Obsidiron Chest", "Giant Present", "Small Present"
   ],
   "Enemies": [
     "Alien", "Alien Chest", "Alien Elite", "Cultist", "Cultist King", "Cultist King Antler",
@@ -82,6 +86,6 @@
     "Sapling", "Shark", "Snowball", "Snowball Cannon", "Wildfire", "Witch Potion", "Brute Shield"
   ],
   "Decor": [
-    "Big Blue Flower", "Big Pink Flower", "Big White Flower", "Bullseye Rug", "Green Rug", "Purple Rug"
+    "Big Blue Flower", "Big Pink Flower", "Big White Flower", "Bullseye Rug", "Green Rug", "Purple Rug", "King Statue"
   ]
 }
